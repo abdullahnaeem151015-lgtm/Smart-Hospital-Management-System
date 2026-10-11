@@ -113,6 +113,13 @@ This project was developed to put core software development concepts into practi
 
 * Working with role-based application interfaces.
 
+## Final Project Documentation
+
+Following is the final documentation of this project that covers the complete system workflow, database architecture and schema, ER and use-case diagrams, code explanations implementation details, and testing results, with screenshots demonstrating each module's functionality.
+It also highlights key development challenges, including database integration, input validation, and user interface design.
+
+["Documentation"](https://github.com/abdullahnaeem151015-lgtm/Smart-Hospital-Management-System/blob/main/Visual%20Programming%20Academic%20Project.pdf)
+
 ## Project Scope
 
 This is an academic portfolio project, built to demonstrate desktop application development and database integration.
